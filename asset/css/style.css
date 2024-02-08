@@ -1,0 +1,14 @@
+:root{
+    --var-main-color:#12DDB1;
+    --var-sub-color:#9EF1DE;
+}
+
+.form-content h2{
+    
+font-size: 50px;
+color: var(--var-main-color);
+}
+
+#input-field{
+   width: 50%; 
+}
